@@ -1,0 +1,48 @@
+{
+  "shopping": [
+    {
+      "id": 1,
+      "name": "Water"
+    },
+    {
+      "id": "2",
+      "name": "Orange Juice"
+    },
+    {
+      "id": "3",
+      "name": "Fanta"
+    },
+    {
+      "id": "4",
+      "name": "Coca-Cola Light"
+    },
+    {
+      "id": "5",
+      "name": "Sprite"
+    },
+    {
+      "id": "6",
+      "name": "Espresso Coffee"
+    },
+    {
+      "id": "7",
+      "name": "Pepsi"
+    },
+    {
+      "id": "8",
+      "name": "Mirinda"
+    },
+    {
+      "id": "9",
+      "name": "Cocoa"
+    },
+    {
+      "id": "10",
+      "name": "Milkshake"
+    },
+    {
+      "id": "3dd564eb-861b-4e4f-9a06-6f8da524de1a",
+      "name": "Sitro"
+    }
+  ]
+}
